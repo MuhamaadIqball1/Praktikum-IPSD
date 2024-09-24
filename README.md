@@ -1,7 +1,7 @@
 ## Repository praktikum IPSD
 
 <pre>
-Nama : Agung Widiyanto
-NIM : 2211110001
+Nama : Muhammad Iqbal
+NIM : 2311110013
 Kelas : S1SD03-A
 </pre>
